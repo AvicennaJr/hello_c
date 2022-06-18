@@ -1,2 +1,2 @@
-# hello_c
+# Hello C!
 First C program
